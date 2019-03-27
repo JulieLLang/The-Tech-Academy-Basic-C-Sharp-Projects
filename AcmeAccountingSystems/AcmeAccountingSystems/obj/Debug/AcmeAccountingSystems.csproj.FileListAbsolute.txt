@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe.config
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.pdb
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.exe
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.pdb
