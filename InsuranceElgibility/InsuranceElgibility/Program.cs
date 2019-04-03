@@ -34,16 +34,6 @@ namespace InsuranceElgibility
             Console.WriteLine(trueOrFalse.ToString());
             Console.ReadLine();
 
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
