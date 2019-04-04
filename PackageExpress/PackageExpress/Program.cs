@@ -56,11 +56,6 @@ namespace PackageExpress
             Console.WriteLine("Thank you for your business.");
             Console.ReadLine();
 
-
-
-
-
-
         }
     }
 }
