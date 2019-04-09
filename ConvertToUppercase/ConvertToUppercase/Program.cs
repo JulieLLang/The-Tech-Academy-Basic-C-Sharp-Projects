@@ -10,7 +10,7 @@ namespace ConvertToUppercase
     {
         static void Main(string[] args)
         {
-            string name = "Julie";
+            string name = "julie";
             name = name.ToUpper();
             Console.WriteLine(name);
             Console.ReadLine();
