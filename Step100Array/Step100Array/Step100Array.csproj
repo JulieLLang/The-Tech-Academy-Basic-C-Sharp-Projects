@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A475DDD4-71F0-46B9-BD0D-8FB601DCA7A9}</ProjectGuid>
+    <ProjectGuid>{DCD1EFB1-2223-4F4E-8B5E-A12DE9B92389}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Step100Array</RootNamespace>
     <AssemblyName>Step100Array</AssemblyName>
